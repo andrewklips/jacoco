@@ -74,11 +74,7 @@
                 </configuration>
             </execution>
             <execution>
-                <id>check</id>
-                <goals>
-                    <goal>check</goal>
-                </goals>
-                <configuration>
+                  <configuration>
                     <rules>
                         <rule>
                             <limits>
